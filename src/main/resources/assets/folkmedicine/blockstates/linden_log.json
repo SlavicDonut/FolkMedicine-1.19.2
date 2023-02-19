@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": {"model": "folkmedicine:block/linden_log", "x": 90, "y": 90},
+    "axis=y": {"model": "folkmedicine:block/linden_log"},
+    "axis=z": {"model": "folkmedicine:block/linden_log", "x": 90}
+  }
+}

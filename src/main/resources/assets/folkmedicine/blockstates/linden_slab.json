@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "folkmedicine:block/linden_slab"
+    },
+    "type=double": {
+      "model": "folkmedicine:block/linden_planks"
+    },
+    "type=top": {
+      "model": "folkmedicine:block/linden_slab_top"
+    }
+  }
+}

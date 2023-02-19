@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "folkmedicine:sandalwood_log",
+    "folkmedicine:sandalwood_wood",
+    "folkmedicine:stripped_sandalwood_log",
+    "folkmedicine:stripped_sandalwood_wood"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "folkmedicine:block/linden_door_top",
+    "bottom": "folkmedicine:block/linden_door_bottom"
+  }
+}

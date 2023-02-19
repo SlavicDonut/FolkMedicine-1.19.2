@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "folkmedicine:block/sandalwood_planks"
+  }
+}

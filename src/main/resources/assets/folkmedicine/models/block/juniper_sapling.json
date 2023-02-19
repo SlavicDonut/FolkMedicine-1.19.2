@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "folkmedicine:block/juniper_sapling"
+  },
+  "render_type": "cutout"
+}

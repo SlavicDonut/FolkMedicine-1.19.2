@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "folkmedicine:block/juniper_slab"
+    },
+    "type=double": {
+      "model": "folkmedicine:block/juniper_planks"
+    },
+    "type=top": {
+      "model": "folkmedicine:block/juniper_slab_top"
+    }
+  }
+}

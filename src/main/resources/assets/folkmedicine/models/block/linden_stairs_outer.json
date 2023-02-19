@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "folkmedicine:block/linden_planks",
+    "top": "folkmedicine:block/linden_planks",
+    "side": "folkmedicine:block/linden_planks"
+  }
+}

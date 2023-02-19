@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "folkmedicine:block/linden_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "folkmedicine:block/linden_wood"
+    },
+    "axis=z": {
+      "model": "folkmedicine:block/linden_wood",
+      "x": 90
+    }
+  }
+}

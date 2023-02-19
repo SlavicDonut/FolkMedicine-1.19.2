@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "folkmedicine:block/stripped_sandalwood_log_top",
+    "side": "folkmedicine:block/stripped_sandalwood_log"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "folkmedicine:block/linden_pressure_plate"
+    },
+    "powered=true": {
+      "model": "folkmedicine:block/linden_pressure_plate_down"
+    }
+  }
+}

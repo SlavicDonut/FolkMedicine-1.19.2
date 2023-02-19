@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "folkmedicine:block/sandalwood_pressure_plate"
+    },
+    "powered=true": {
+      "model": "folkmedicine:block/sandalwood_pressure_plate_down"
+    }
+  }
+}

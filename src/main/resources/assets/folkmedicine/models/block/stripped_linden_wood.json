@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "folkmedicine:block/stripped_linden_log",
+    "side": "folkmedicine:block/stripped_linden_log"
+  }
+}

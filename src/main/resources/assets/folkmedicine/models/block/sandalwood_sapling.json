@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "folkmedicine:block/sandalwood_sapling"
+  },
+  "render_type": "cutout"
+}

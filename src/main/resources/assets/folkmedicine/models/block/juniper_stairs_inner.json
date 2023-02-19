@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "folkmedicine:block/juniper_planks",
+    "top": "folkmedicine:block/juniper_planks",
+    "side": "folkmedicine:block/juniper_planks"
+  }
+}

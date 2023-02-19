@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": {"model": "folkmedicine:block/stripped_sandalwood_log", "x": 90, "y": 90},
+    "axis=y": {"model": "folkmedicine:block/stripped_sandalwood_log"},
+    "axis=z": {"model": "folkmedicine:block/stripped_sandalwood_log", "x": 90}
+  }
+}
